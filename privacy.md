@@ -151,11 +151,13 @@ Where required by applicable law, the Publisher will ensure that international t
 
 You have the right to delete or request that the Publisher assist in deleting the Personal Data that the Publisher has collected about You.
 
-The Service may give You the ability to delete certain information about You from within the Service.
-
-You may update, amend, or delete Your information at any time by signing in to Your Account, if You have one, and visiting the account settings section that allows You to manage Your personal information. You may also contact the Publisher to request access to, correct, or delete any Personal Data that You have provided to the Publisher.
+To request access to, correction of, or deletion of Your Personal Data, email the Publisher at [arkan.architecture.support@gmail.com](mailto:arkan.architecture.support@gmail.com).
 
 Please note, however, that the Publisher may need to retain certain information when the Publisher has a legal obligation or lawful basis to do so.
+
+### Deleting Your Account
+
+To delete Your Account, email the Publisher at [arkan.architecture.support@gmail.com](mailto:arkan.architecture.support@gmail.com) and include the phone number You used to sign up for the Service. The Publisher will delete Your Account, and the Personal Data associated with it, within 14 days of receiving Your request, except where the Publisher is required or permitted to retain certain information as described under Retention of Your Personal Data above.
 
 ### Disclosure of Your Personal Data
 
@@ -208,3 +210,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 If You have any questions about this Privacy Policy, You can contact the Publisher:
 
 - By phone: 962796206118
+- By email: [arkan.architecture.support@gmail.com](mailto:arkan.architecture.support@gmail.com)
