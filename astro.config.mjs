@@ -17,18 +17,22 @@ export default defineConfig({
       }]
     }
   },
-{
-    provider: fontProviders.local(),
-    name: "HackedFont",
-    cssVariable: "--font-hacked",
-    options: {
-      variants: [{
-        src: ['./src/assets/fonts/HACKED.ttf'],
-        weight: 'normal',
-        style: 'normal'
-      }]
-    }
-  }],
+  {
+    provider: fontProviders.google(),
+    name: "Bricolage Grotesque",
+    cssVariable: "--font-bricolage-grotesque",
+  },
+  {
+    provider: fontProviders.google(),
+    name: "Unbounded",
+    cssVariable: "--font-unbounded",
+  },
+  {
+    provider: fontProviders.google(),
+    name: "JetBrains Mono",
+    cssVariable: "--font-mono"
+  }
+  ],
   vite: {
     plugins: [tailwindcss()],
   }

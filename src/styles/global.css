@@ -25,9 +25,14 @@
     --color-success: #82D173;
     --color-warning: #FBBF24;
     --color-danger: #F87171;
+
+    --font-hacked: var(--font-hacked);
+    --font-unbounded: var(--font-unbounded);
+    --font-mono: var(--font-mono)
 }
 
 body {
     background: var(--color-bg);
     color: var(--color-text);
+    font-family: var(--font-bricolage-grotesque);
 }

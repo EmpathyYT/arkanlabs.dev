@@ -1,18 +1,8 @@
 ---
-import { SITE } from "../consts";
+import "../styles/global.css";
+import BaseLayout from "../layout/BaseLayout.astro";
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>{SITE.title}</title>
-	</head>
-	<body>
-		<h1>{SITE.title}</h1>
-		<p>{SITE.tagline}</p>
-	</body>
-</html>
+<BaseLayout title="Home Page">
+<h1>Yes</h1>
+</BaseLayout>
