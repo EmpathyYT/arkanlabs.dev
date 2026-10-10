@@ -1,1 +1,33 @@
 @import "tailwindcss";
+
+@theme {
+    /* base */
+    --color-bg: #14151D;
+    --color-surface: #1F2029;
+    --color-surface-2: #292A36;
+    --color-border: #323444;
+
+    /* text */
+    --color-text: #D4DCFF;
+    --color-muted: #9AA0C3;
+
+    /* brand */
+    --color-accent: #1B9AAA;
+    /* buttons, progress, highlights */
+    --color-accent-bright: #2BB5C7;
+    /* links and small accent text */
+    --color-on-accent: #14151D;
+    /* text on accent buttons */
+    --color-accent-2: #8963BA;
+    /* per-project accent: fills, bars, borders only */
+
+    /* status */
+    --color-success: #82D173;
+    --color-warning: #FBBF24;
+    --color-danger: #F87171;
+}
+
+body {
+    background: var(--color-bg);
+    color: var(--color-text);
+}
